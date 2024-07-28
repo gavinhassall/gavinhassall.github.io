@@ -1,0 +1,27 @@
+title: Gavin Hassall
+author:
+  name: Gavin Hassall
+  email: gavin.hassall@warwick.ac.uk
+
+description: >
+  Warwick Economics PhD Candidate | Macroeconomist | Job Market Candidate 2024-2025
+
+
+theme: minima
+
+header_pages:
+  - research.md
+  - teaching.md
+  - cv.md
+
+# Minima specific settings, which are only available from Minima 3.0 onward.
+minima:
+  # Minima skin selection.
+  # Available skins are:
+  # classic	           Default, light color scheme.
+  # dark	             Dark variant of the classic skin.
+  # auto	             Adaptive skin based on the default classic and dark skins.
+  # solarized-light	   Light variant of solarized color scheme.
+  # solarized-dark	   Dark variant of solarized color scheme.
+  # solarized	         Adaptive skin for solarized color scheme skins.
+  skin: solarized-dark
