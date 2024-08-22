@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-[Click to download my CV.](cv/x.pdf){:target="_blank"}
+[Click to download my CV.](cv/cv.pdf){:target="_blank"}
 
 
 ## Education
