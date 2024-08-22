@@ -22,5 +22,5 @@ permalink: /cv/
 ## View Curriculum Vitae
 
 <div style="text-align: center;">
-  <embed src="x.pdf" width="800px" height="1150px" type="application/pdf" />
+  <embed src="cv.pdf" width="800px" height="1150px" type="application/pdf" />
 </div>
