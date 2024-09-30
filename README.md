@@ -2,7 +2,7 @@
   <p style="font-size: 40px; font-weight:bold;">Welcome!</p>
 </div>
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 40px; padding: 40px; max-width: 1200px; margin: auto;">
+<div style="display: flex; align-items: flex-start; justify-content: center; gap: 40px; padding: 40px; max-width: 1600px; margin: auto;">
   <div style="width: 33%; display: flex; justify-content: center;">
     <img src="files/images/profile.png" alt="Profile Image" style="max-width: 100%; height: auto; border-radius: 0; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);">
   </div>
