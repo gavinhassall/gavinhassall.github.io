@@ -12,7 +12,7 @@ permalink: /research/
 
 2. **The Role of Labour Markets in Household Inflation Expectations** (with Christine Braun and Anshumaan Tuteja)
 
-3. **Embracing the Future: Tense Patterns and Forward-Looking Monetary Policy** (with Andrea Guerrieri D'Amati)
+3. **Embracing the Future: Tense Patterns and Forward-Looking Monetary Policy** (with Andrea Guerrieri D'Amati). Presented at: Royal Economics Society conference, University of Belfast, 2024; Text-as-Data in Economics workshop (poster session), University of Liverpool 2024; Tor Vergata Ph.D. Conference in Economics, 2024; Nontraditional Data, Machine Lening, and Natural Language Processing for Macroeconomics, Bank of Italy, November 2024.
 
 
 ## Publications 
