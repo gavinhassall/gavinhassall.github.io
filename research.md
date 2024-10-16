@@ -6,13 +6,31 @@ permalink: /research/
 
 ## Ongoing Research 
 
-1. **Information Gaps in Central Bank Communications: How Well Does the Fed Signal Future Policy?** (Job Market Paper)
+<ul>
+  <li>
+    <strong>The Effects of Information Gaps in Central Bank Communications</strong> (Job Market Paper).
+    <p align="justify" style="margin: 0; padding: 0;">
+      Information gaps between FOMC meeting minutes and public speeches by the Chair and Vice Chair about future interest rates can result in financial market surprises, leading to fluctuations in stock and bond prices. First, I estimate the relationship from the text data of public speeches to high-frequency changes in market expectations. Then, I use this relationship to predict the information about future rates from the public and private text data to measure an information gap. In an event study, I show that information gaps affect treasury yields and stock prices. Moreover, this effect is persistent and large enough to generate short-term macroeconomic effects. I explain my results with a model where the central bank has superior information about its reaction function and real interest rates, which are communicated with noisy signals. My results suggest releasing detailed policy information sooner than is currently practiced could lower market volatility by closing some of the information gap between the Fed and financial markets.
+    </p>
+  </li>
+</ul>
 
-   Information gaps between FOMC meeting minutes and public speeches by the Chair and Vice Chair about future interest rates can result in financial market surprises, leading to fluctuations in stock and bond prices. First, I estimate the relationship from the text data of public speeches to high-frequency changes in market expectations. Then, I use this relationship to predict the information about future rates from the public and private text data to measure an information gap. In an event study, I show that information gaps affect treasury yields and stock prices. Moreover, this effect is persistent and large enough to generate short-term macroeconomic effects. I explain my results with a model where the central bank has superior information about its reaction function and real interest rates, which are communicated with noisy signals. My results suggest releasing detailed policy information sooner than is currently practiced could lower market volatility by closing some of the information gap between the Fed and financial markets.
 
-2. **The Role of Labour Markets in Household Inflation Expectations** (with Christine Braun and Anshumaan Tuteja)
+<ul>
+  <li>
+    <strong>Embracing the Future: Tense Patterns and Forward-Looking Monetary Policy</strong> (with Andrea Guerrieri D'Amati).
+    <p align="justify" style="margin: 0; padding: 0;">
+      Presented at: Royal Economics Society annual conference, University of Belfast, 2024; Text-as-Data in Economics workshop (poster session), University of Liverpool 2024; PhD Conference in Economics, University of Tor Vergata, 2024; Nontraditional Data, Machine Learning, and Natural Language Processing for Macroeconomics, Bank of Italy, November 2024.
+    </p>
+  </li>
+</ul>
 
-3. **Embracing the Future: Tense Patterns and Forward-Looking Monetary Policy** (with Andrea Guerrieri D'Amati). Presented at: Royal Economics Society annual conference, University of Belfast, 2024; Text-as-Data in Economics workshop (poster session), University of Liverpool 2024; PhD Conference in Economics, University of Tor Vergata, 2024; Nontraditional Data, Machine Lening, and Natural Language Processing for Macroeconomics, Bank of Italy, November 2024.
+
+<ul>
+  <li>
+    <strong>The Role of Labour Markets in Household Inflation Expectations</strong> (with Christine Braun and Anshumaan Tuteja).
+  </li>
+</ul>
 
 
 ## Publications 
