@@ -10,4 +10,10 @@
       </p>
     </div>
   </div>
+  
+  <!-- Links Section -->
+  <div style="display: flex; justify-content: space-around; margin-top: 40px;">
+    <a href="https://warwick.ac.uk/fac/soc/economics/staff/garhassall/gavinhassall-jmp.pdf" style="text-decoration: none; color: blue; font-size: 20px;">Link to Job Market Paper</a>
+    <a href="https://warwick.ac.uk/fac/soc/economics/staff/garhassall/gavinhassall-cv.pdf" style="text-decoration: none; color: blue; font-size: 20px;">Link to my CV</a>
+  </div>
 </header>
