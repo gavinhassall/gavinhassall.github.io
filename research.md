@@ -12,7 +12,7 @@ permalink: /research/
 
 2. **The Role of Labour Markets in Household Inflation Expectations** (with Christine Braun and Anshumaan Tuteja)
 
-3. **Embracing the Future: Tense Patterns and Forward-Looking Monetary Policy** (with Andrea Guerrieri D'Amati). Presented at: Royal Economics Society conference, University of Belfast, 2024; Text-as-Data in Economics workshop (poster session), University of Liverpool 2024; Tor Vergata Ph.D. Conference in Economics, 2024; Nontraditional Data, Machine Lening, and Natural Language Processing for Macroeconomics, Bank of Italy, November 2024.
+3. **Embracing the Future: Tense Patterns and Forward-Looking Monetary Policy** (with Andrea Guerrieri D'Amati). Presented at: Royal Economics Society annual conference, University of Belfast, 2024; Text-as-Data in Economics workshop (poster session), University of Liverpool 2024; PhD Conference in Economics, University of Tor Vergata, 2024; Nontraditional Data, Machine Lening, and Natural Language Processing for Macroeconomics, Bank of Italy, November 2024.
 
 
 ## Publications 
@@ -24,6 +24,8 @@ permalink: /research/
 1. Curzon-Price et al. 2020, [The GFC, Systemic Legitimacy and "Rip-Off" Stories in the Daily Mail](https://www.rebuildingmacroeconomics.ac.uk/the-gfc-systemic-legitimacy-and-rip), _**Rebuilding Macroeconomics Discussion Paper**_
 
 
-## Conference Presentations
+## Conferences
 
-2024: Royal Economics Society and Scottish Economics Society.
+2024: Royal Economics Society (University of Belfast); Scottish Economics Society (University of Glasgow).
+
+2023: Oxford-Warwick Macro-International workshop (University of Oxford).
