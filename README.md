@@ -6,7 +6,7 @@
     <div style="width: 65%; text-align: left;">
       <h1 style="font-size: 36px; margin-bottom: 20px;">Welcome!</h1>
       <p style="font-size: 20px; line-height: 1.6; margin: 0;">
-        I am a macroeconomist and PhD candidate in Economics at Warwick, and I will be on the job market for 2024-2025. My current research focuses on central bank communications and how information conveyed through language affects financial markets and the macroeconomy. I am also interested in how households learn about the macroeconomy, and how this affects their decisions.
+        I am a macroeconomist, PhD candidate in Economics at Warwick, and I will be on the job market for 2024-2025. My current research focuses on central bank communications and how information conveyed through language affects financial markets and the macroeconomy. I am also interested in how households learn about the macroeconomy, and how this affects their decisions.
       </p>
     </div>
   </div>
