@@ -21,7 +21,7 @@ permalink: /research/
   <li>
     <strong>Embracing the Future: Tense Patterns and Forward-Looking Monetary Policy</strong> (with Andrea Guerrieri D'Amati).
     <p align="justify" style="margin: 0; padding: 0;">
-      Presented at: Royal Economics Society annual conference, University of Belfast, 2024; Text-as-Data in Economics workshop (poster session), University of Liverpool 2024; PhD Conference in Economics, University of Tor Vergata, 2024; Nontraditional Data, Machine Learning, and Natural Language Processing for Macroeconomics, Bank of Italy, November 2024.
+      Presented at: Royal Economics Society annual conference, University of Belfast, 2024; Text-as-Data in Economics workshop (poster session), University of Liverpool, 2024; PhD Conference in Economics, University of Tor Vergata, 2024; Nontraditional Data, Machine Learning, and Natural Language Processing for Macroeconomics, Bank of Italy, November 2024.
     </p>
   </li>
 </ul>

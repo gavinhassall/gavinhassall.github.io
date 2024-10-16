@@ -22,5 +22,5 @@ permalink: /cv/
 ## View Curriculum Vitae
 
 <div style="text-align: center;">
-  <embed src="cv.pdf" width="800px" height="1150px" type="application/pdf" />
+  <embed src="https://warwick.ac.uk/fac/soc/economics/staff/garhassall/gavinhassall-cv.pdf" width="800px" height="1150px" type="application/pdf" />
 </div>
