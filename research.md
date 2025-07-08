@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-## Ongoing Research 
+## Current Projects 
 
 <ul>
   <li>
@@ -43,8 +43,8 @@ permalink: /research/
 1. Curzon-Price et al. 2020, [The GFC, Systemic Legitimacy and "Rip-Off" Stories in the Daily Mail](https://www.rebuildingmacroeconomics.ac.uk/the-gfc-systemic-legitimacy-and-rip), _Rebuilding Macroeconomics Discussion Paper_
 
 
-## Conferences
+## Conferences Attended
 
 2024: Royal Economics Society (University of Belfast); Scottish Economics Society (University of Glasgow).
 
-2023: Oxford-Warwick Macro-International workshop (University of Oxford).
+2023: Oxford-Warwick macroeconomics workshop (University of Oxford).
