@@ -8,7 +8,7 @@ permalink: /research/
 
 <ul>
   <li>
-    <strong><a href="https://warwick.ac.uk/fac/soc/economics/staff/garhassall/gavinhassall-jmp.pdf" target="_blank">The Effects of Information Gaps in Central Bank Communications</a></strong> (Job Market Paper).
+    <strong><a href="https://gavinhassall.github.io/files/research/cbc_information_gaps.pdf" target="_blank">The Effects of Information Gaps in Central Bank Communications</a></strong>.
     <p align="justify" style="margin: 0; padding: 0;">
       This paper shows that `information gaps' about the likely path of future interest rates between the Federal Open Market Committee (FOMC) meeting minutes and public speeches by the Chair and Vice Chair account for fluctuations in bond markets and the macroeconomy. I estimate a relationship between the text of public speeches and the high-frequency change in financial market expectations of future interest rates around these speeches. I measure information gaps as the differential information about the likely path of future interest rates between the public speeches and the private FOMC meeting minutes. In an event study, I show that these information gaps account for 11\% of the variation in surprises in financial market expectations of future interest rates, which has a persistent effect along the yield curve. Using a structural vector autoregression identified with external instruments, I find that information gap surprises have persistent macroeconomic effects. I explain my results through a model in which central bank communications are inaccurate signals of their reaction function and the real rate of interest.
     </p>
