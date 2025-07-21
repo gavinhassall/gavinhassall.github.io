@@ -24,6 +24,3 @@
 
   </div>
 </div>
-
-https://gavinhassall.github.io/files/research/2020_Curzon-Price_rip-off_stories.pdf
-https://gavinhassall.github.io/cv/cv.pdf
