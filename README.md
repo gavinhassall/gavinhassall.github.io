@@ -14,13 +14,5 @@
 
     I am a macroeconomist and my current research focuses on central bank communications and how information conveyed through language affects financial markets and the macroeconomy. I am also interested in how households learn about the macroeconomy and how this affects their decisions.
   </p>
-
-  <!-- Links -->
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 12px; margin-top: 30px;">
-    <a href="https://gavinhassall.github.io/cv/cv.pdf" style="text-decoration: none; font-size: 18px; color: blue;">
-      Curriculum Vitae
-    </a>
-  </div>
-
-  </div>
+ </div>
 </div>
