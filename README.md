@@ -10,11 +10,11 @@
 
   <!-- Bio Text -->
   <p style="font-size: 18px; line-height: 1.6; text-align: justify; margin-top: 20px;">
-    I will be joining the Department of Economics at the University of Bath as a Lecturer in September 2025.
+    I am a Lecturer in Department of Economics at the University of Bath.
   </p>
 
   <p style="font-size: 18px; line-height: 1.6; text-align: justify;">
-    I am a macroeconomist and my current research focuses on central bank communications and how information conveyed through language affects financial markets and the macroeconomy. I am also interested in how households learn about the macroeconomy and how this affects their decisions.
+    I am a macroeconomist and my current research focuses on how central bank communications affect financial markets and the macroeconomy. I am also interested in how people learn about the macroeconomy, form expectations, and how this affects their decisions.
   </p>
 
  </div>
