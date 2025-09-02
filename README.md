@@ -10,7 +10,7 @@
 
   <!-- Bio Text -->
   <p style="font-size: 18px; line-height: 1.6; text-align: justify; margin-top: 20px;">
-    I am a Lecturer in Department of Economics at the University of Bath.
+    I am a Lecturer in the Department of Economics at the University of Bath.
   </p>
 
   <p style="font-size: 18px; line-height: 1.6; text-align: justify;">
