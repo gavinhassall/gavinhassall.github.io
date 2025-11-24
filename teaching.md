@@ -4,6 +4,10 @@ title: Teaching
 permalink: /teaching/
 ---
 
+### University of Bath
+
+- Second-year undergraduate monetary economics (ES22027) in 2025.
+
 ### University of Warwick
 
 - Second-year undergraduate econometrics (EC226) in 2022, 2023 and 2024. 
