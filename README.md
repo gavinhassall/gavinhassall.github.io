@@ -14,7 +14,7 @@
   </p>
 
   <p style="font-size: 18px; line-height: 1.6; text-align: justify;">
-    I am a macroeconomist and I am interested in research on how central bank communications affect financial markets and the macroeconomy. I am also interested in how people learn about the macroeconomy, form expectations, and how this affects their decisions.
+    My research interests are in macroeconomics and monetary economics, particularly how central bank communications affect financial markets and the macroeconomy. I am also interested in how people learn about the macroeconomy and form expectations, as well as how this affects their decisions.
   </p>
 
  </div>
