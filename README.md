@@ -10,11 +10,11 @@
 
   <!-- Bio Text -->
   <p style="font-size: 18px; line-height: 1.6; text-align: justify; margin-top: 20px;">
-    I am a Lecturer in the Department of Economics at the University of Bath.
+    I am a Lecturer (education focused) in the Department of Economics at the University of Bath.
   </p>
 
   <p style="font-size: 18px; line-height: 1.6; text-align: justify;">
-    My research interests are in macroeconomics and monetary economics, particularly how central bank communications affect financial markets and the macroeconomy. I am also interested in how people learn about the macroeconomy and form expectations, as well as how this affects their decisions.
+    My research interests are in macroeconomics and monetary economics, particularly how central bank communications affect financial markets and the macroeconomy. I am also interested in how people learn about the macroeconomy, form expectations and how this affects their decisions.
   </p>
 
  </div>
