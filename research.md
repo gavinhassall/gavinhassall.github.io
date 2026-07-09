@@ -21,7 +21,7 @@ permalink: /research/
   <li>
     <strong>Embracing the Future: Tense Patterns and Forward-Looking Central Bank Communications</strong> (with Andrea Guerrieri D'Amati).
     <p align="justify" style="margin: 0; padding: 0;">
-      Presented at: Royal Economics Society annual conference, University of Belfast, 2024; Text-as-Data in Economics workshop (poster session), University of Liverpool, 2024; PhD Conference in Economics, University of Tor Vergata, 2024; Nontraditional Data, Machine Learning, and Natural Language Processing for Macroeconomics, Bank of Italy, November 2024.
+      Presented at: Royal Economics Society annual conference, University of Belfast, 2024; Text-as-Data in Economics workshop (poster session), University of Liverpool, 2024; PhD Conference in Economics, University of Tor Vergata, 2024; Non-traditional Data, Machine Learning, and Natural Language Processing for Macroeconomics, Bank of Italy, November 2024.
     </p>
   </li>
 </ul>
@@ -40,10 +40,10 @@ permalink: /research/
 
 ## Discussion Papers
 
-1. Curzon-Price et al. 2020, [The GFC, Systemic Legitimacy and "Rip-Off" Stories in the Daily Mail](https://www.rebuildingmacroeconomics.ac.uk/the-gfc-systemic-legitimacy-and-rip), _Rebuilding Macroeconomics Discussion Paper_
+1. Curzon-Price et al. 2020, [The GFC, Systemic Legitimacy and "Rip-Off" Stories in the Daily Mail](https://gavinhassall.github.io/files/research/2020_Curzon-Price_rip-off_stories.pdf), _Rebuilding Macroeconomics Discussion Paper_
 
 
-## Conferences Attended
+## Presentations
 
 2024: Royal Economics Society (University of Belfast); Scottish Economics Society (University of Glasgow).
 
