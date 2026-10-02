@@ -19,7 +19,7 @@ permalink: /research/
 
 <ul>
   <li>
-    <strong>Embracing the Future: Tense Patterns and Forward-Looking Central Bank Communications</strong> (with Andrea Guerrieri D'Amati).
+    <strong><a href="https://gavinhassall.github.io/files/research/EmbracingTheFuture.pdf" target="_blank">Embracing the Future: Tense Patterns and Forward-Looking Central Bank Communications</strong> (with Andrea Guerrieri D'Amati).
     <p align="justify" style="margin: 0; padding: 0;">
       Presented at: Royal Economics Society annual conference, University of Belfast, 2024; Text-as-Data in Economics workshop (poster session), University of Liverpool, 2024; PhD Conference in Economics, University of Tor Vergata, 2024; Non-traditional Data, Machine Learning, and Natural Language Processing for Macroeconomics, Bank of Italy, November 2024.
     </p>
@@ -38,7 +38,7 @@ permalink: /research/
 
 1. Grubb et al. 2021, [Induced innovation in energy technologies and systems: a review of evidence and potential implications for CO2 mitigation](https://iopscience.iop.org/article/10.1088/1748-9326/abde07/meta), _Environmental Research Letters_ 16.4
 
-## Discussion Papers
+## Other Research
 
 1. Curzon-Price et al. 2020, [The GFC, Systemic Legitimacy and "Rip-Off" Stories in the Daily Mail](https://gavinhassall.github.io/files/research/2020_Curzon-Price_rip-off_stories.pdf), _Rebuilding Macroeconomics Discussion Paper_
 
